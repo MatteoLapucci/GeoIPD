@@ -4,17 +4,19 @@ Inexact Penalty Decomposition Methods for Optimization Problems with Geometric C
 ### General Information
 Code related to the paper
 
-[Kanzow, C., Lapucci, M. Inexact Penalty Decomposition Methods for Optimization Problems with Geometric Constraints. arxiv. (2022).](https://doi.org/10.48550/arXiv.2210.05379)
+[Kanzow, Christian, and Matteo Lapucci. "Inexact penalty decomposition methods for optimization problems with geometric constraints." Computational Optimization and Applications (2023): 1-35.](https://link.springer.com/article/10.1007/s10589-023-00475-2)
 
 If you have used our code for research purposes, please cite the publication mentioned above.
 For the sake of simplicity, we provide the Bibtex format:
 
 ```
-@article{lapucci2022inexact,
-  title={Inexact Penalty Decomposition Methods for Optimization Problems with Geometric Constraints},
-  author={Lapucci, Matteo and Kanzow, Christian},
-  journal={arXiv preprint arXiv:2210.05379},
-  year={2022}
+@article{kanzow2023inexact,
+  title={Inexact penalty decomposition methods for optimization problems with geometric constraints},
+  author={Kanzow, Christian and Lapucci, Matteo},
+  journal={Computational Optimization and Applications},
+  pages={1--35},
+  year={2023},
+  publisher={Springer}
 }
 ```
 
